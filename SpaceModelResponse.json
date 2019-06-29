@@ -1,0 +1,11 @@
+﻿[
+  {
+    "id": "0084c79e-f39f-545e-a742-0c59e81b5a4a",
+    "label": "Auditorium",
+    "itemReference": "M3094064:M3094064/Johnson Controls.507.Building 3.Floor 1.Room 1",
+    "type": "Room",
+    "customDescriptions": [
+      "auditorium"
+    ]
+  }
+]
